@@ -1,13 +1,18 @@
 Driver Drowsiness Detection System
+
+
 This project implements a real-time Driver Drowsiness Detection System using Deep Learning. It utilizes Convolutional Neural Networks (CNNs) to analyze facial expressions and eye states to identify signs of fatigue, such as yawning or closed eyes, to help prevent road accidents. also real time implemented.
-🗃️ Datasets Used
+
+Datasets Used
 The model was trained and evaluated on two primary datasets:
 
 
 YawDD (Yawning Detection Dataset): Contains videos of male and female drivers with varying conditions (e.g., wearing glasses).  
 
 CEW (Closed Eye in the Wild): Consists of 2,423 subjects with open and closed eye images.  
-🛠️ Installation & Setup
+
+
+Installation & Setup
 1. Prerequisite Files (Need to be created/downloaded)
 To run this project successfully, you must ensure the following are in your project directory:
 
